@@ -919,6 +919,857 @@
           "subtitle": "&#x0281; → Copy HTML Numeric Character Reference (Hex)"
         }
       }
+    },
+    {
+      "title": "ʂ\t voiceless retroflex fricative\n IPA voiceless retroflex fricative",
+      "subtitle": "U+0282",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ʂ",
+      "text": {
+        "copy": "ʂ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0282",
+          "subtitle": "\\u0282 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0282;",
+          "subtitle": "&#x0282; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ʃ\t voiceless postalveolar fricative\n IPA voiceless postalveolar fricative",
+      "subtitle": "U+0283",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ʃ",
+      "text": {
+        "copy": "ʃ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0283",
+          "subtitle": "\\u0283 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&esh;",
+          "subtitle": "&esh; → Copy HTML Entity"
+        }
+      }
+    },
+    {
+      "title": "θ\t voiceless dental fricative\n IPA voiceless dental fricative",
+      "subtitle": "U+03B8",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "θ",
+      "text": {
+        "copy": "θ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u03B8",
+          "subtitle": "\\u03B8 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&theta;",
+          "subtitle": "&theta; → Copy HTML Entity"
+        }
+      }
+    },
+    {
+      "title": "ʈ\t voiceless retroflex plosive\n IPA voiceless retroflex plosive",
+      "subtitle": "U+0288",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ʈ",
+      "text": {
+        "copy": "ʈ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0288",
+          "subtitle": "\\u0288 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0288;",
+          "subtitle": "&#x0288; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ʧ\t voiceless postalveolar affricate\n IPA voiceless postalveolar affricate",
+      "subtitle": "U+02A7",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ʧ",
+      "text": {
+        "copy": "ʧ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u02A7",
+          "subtitle": "\\u02A7 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x02A7;",
+          "subtitle": "&#x02A7; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ʋ\t voiced labiodental approximant\n IPA voiced labiodental approximant",
+      "subtitle": "U+028B",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ʋ",
+      "text": {
+        "copy": "ʋ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u028B",
+          "subtitle": "\\u028B → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x028B;",
+          "subtitle": "&#x028B; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɣ\t voiced velar fricative\n IPA voiced velar fricative",
+      "subtitle": "U+0263",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɣ",
+      "text": {
+        "copy": "ɣ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0263",
+          "subtitle": "\\u0263 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0263;",
+          "subtitle": "&#x0263; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ʍ\t voiceless labial-velar fricative\n IPA voiceless labial-velar fricative",
+      "subtitle": "U+028D",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ʍ",
+      "text": {
+        "copy": "ʍ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u028D",
+          "subtitle": "\\u028D → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x028D;",
+          "subtitle": "&#x028D; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "χ\t voiceless uvular fricative\n IPA voiceless uvular fricative",
+      "subtitle": "U+03C7",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "χ",
+      "text": {
+        "copy": "χ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u03C7",
+          "subtitle": "\\u03C7 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&chi;",
+          "subtitle": "&chi; → Copy HTML Entity"
+        }
+      }
+    },
+    {
+      "title": "ʑ\t voiced alveolo-palatal fricative\n IPA voiced alveolo-palatal fricative",
+      "subtitle": "U+0291",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ʑ",
+      "text": {
+        "copy": "ʑ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0291",
+          "subtitle": "\\u0291 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0291;",
+          "subtitle": "&#x0291; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ʐ\t voiced retroflex fricative\n IPA voiced retroflex fricative",
+      "subtitle": "U+0290",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ʐ",
+      "text": {
+        "copy": "ʐ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0290",
+          "subtitle": "\\u0290 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0290;",
+          "subtitle": "&#x0290; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ʒ\t voiced postalveolar fricative\n IPA voiced postalveolar fricative",
+      "subtitle": "U+0292",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ʒ",
+      "text": {
+        "copy": "ʒ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0292",
+          "subtitle": "\\u0292 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&ezh;",
+          "subtitle": "&ezh; → Copy HTML Entity"
+        }
+      }
+    },
+    {
+      "title": "ɑ\t open back unrounded vowel\n IPA open back unrounded vowel",
+      "subtitle": "U+0251",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɑ",
+      "text": {
+        "copy": "ɑ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0251",
+          "subtitle": "\\u0251 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0251;",
+          "subtitle": "&#x0251; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɐ\t near-open central vowel\n IPA near-open central vowel",
+      "subtitle": "U+0250",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɐ",
+      "text": {
+        "copy": "ɐ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0250",
+          "subtitle": "\\u0250 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0250;",
+          "subtitle": "&#x0250; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɒ\t open back rounded vowel\n IPA open back rounded vowel",
+      "subtitle": "U+0252",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɒ",
+      "text": {
+        "copy": "ɒ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0252",
+          "subtitle": "\\u0252 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0252;",
+          "subtitle": "&#x0252; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "æ\t near-open front unrounded vowel\n IPA near-open front unrounded vowel",
+      "subtitle": "U+00E6",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "æ",
+      "text": {
+        "copy": "æ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u00E6",
+          "subtitle": "\\u00E6 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&aelig;",
+          "subtitle": "&aelig; → Copy HTML Entity"
+        }
+      }
+    },
+    {
+      "title": "ə\t mid central vowel\n IPA mid central vowel",
+      "subtitle": "U+0259",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ə",
+      "text": {
+        "copy": "ə"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0259",
+          "subtitle": "\\u0259 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0259;",
+          "subtitle": "&#x0259; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɘ\t close-mid central unrounded vowel\n IPA close-mid central unrounded vowel",
+      "subtitle": "U+0258",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɘ",
+      "text": {
+        "copy": "ɘ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0258",
+          "subtitle": "\\u0258 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0258;",
+          "subtitle": "&#x0258; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɵ\t close-mid central rounded vowel\n IPA close-mid central rounded vowel",
+      "subtitle": "U+0275",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɵ",
+      "text": {
+        "copy": "ɵ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0275",
+          "subtitle": "\\u0275 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0275;",
+          "subtitle": "&#x0275; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɚ\t r-colored mid central vowel\n IPA r-colored mid central vowel",
+      "subtitle": "U+025A",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɚ",
+      "text": {
+        "copy": "ɚ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u025A",
+          "subtitle": "\\u025A → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x025A;",
+          "subtitle": "&#x025A; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɛ\t open-mid front unrounded vowel\n IPA open-mid front unrounded vowel",
+      "subtitle": "U+025B",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɛ",
+      "text": {
+        "copy": "ɛ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u025B",
+          "subtitle": "\\u025B → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&epsilon;",
+          "subtitle": "&epsilon; → Copy HTML Entity"
+        }
+      }
+    },
+    {
+      "title": "ɜ\t open-mid central unrounded vowel\n IPA open-mid central unrounded vowel",
+      "subtitle": "U+025C",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɜ",
+      "text": {
+        "copy": "ɜ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u025C",
+          "subtitle": "\\u025C → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x025C;",
+          "subtitle": "&#x025C; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɝ\t r-colored open-mid central unrounded vowel\n IPA r-colored open-mid central unrounded vowel",
+      "subtitle": "U+025D",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɝ",
+      "text": {
+        "copy": "ɝ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u025D",
+          "subtitle": "\\u025D → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x025D;",
+          "subtitle": "&#x025D; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɞ\t open-mid central rounded vowel\n IPA open-mid central rounded vowel",
+      "subtitle": "U+025E",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɞ",
+      "text": {
+        "copy": "ɞ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u025E",
+          "subtitle": "\\u025E → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x025E;",
+          "subtitle": "&#x025E; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɨ\t close central unrounded vowel\n IPA close central unrounded vowel",
+      "subtitle": "U+0268",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɨ",
+      "text": {
+        "copy": "ɨ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0268",
+          "subtitle": "\\u0268 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0268;",
+          "subtitle": "&#x0268; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɪ\t near-close near-front unrounded vowel\n IPA near-close near-front unrounded vowel",
+      "subtitle": "U+026A",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɪ",
+      "text": {
+        "copy": "ɪ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u026A",
+          "subtitle": "\\u026A → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x026A;",
+          "subtitle": "&#x026A; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɔ\t open-mid back rounded vowel\n IPA open-mid back rounded vowel",
+      "subtitle": "U+0254",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɔ",
+      "text": {
+        "copy": "ɔ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0254",
+          "subtitle": "\\u0254 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0254;",
+          "subtitle": "&#x0254; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ø\t close-mid front rounded vowel\n IPA close-mid front rounded vowel",
+      "subtitle": "U+00F8",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ø",
+      "text": {
+        "copy": "ø"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u00F8",
+          "subtitle": "\\u00F8 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&oslash;",
+          "subtitle": "&oslash; → Copy HTML Entity"
+        }
+      }
+    },
+    {
+      "title": "œ\t open-mid front rounded vowel\n IPA open-mid front rounded vowel",
+      "subtitle": "U+0153",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "œ",
+      "text": {
+        "copy": "œ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0153",
+          "subtitle": "\\u0153 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&oelig;",
+          "subtitle": "&oelig; → Copy HTML Entity"
+        }
+      }
+    },
+    {
+      "title": "ɶ\t open front rounded vowel\n IPA open front rounded vowel",
+      "subtitle": "U+0276",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɶ",
+      "text": {
+        "copy": "ɶ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0276",
+          "subtitle": "\\u0276 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0276;",
+          "subtitle": "&#x0276; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɥ\t labial-palatal approximant\n IPA labial-palatal approximant",
+      "subtitle": "U+0265",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɥ",
+      "text": {
+        "copy": "ɥ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0265",
+          "subtitle": "\\u0265 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0265;",
+          "subtitle": "&#x0265; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ʌ\t open-mid back unrounded vowel\n IPA open-mid back unrounded vowel",
+      "subtitle": "U+028C",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ʌ",
+      "text": {
+        "copy": "ʌ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u028C",
+          "subtitle": "\\u028C → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x028C;",
+          "subtitle": "&#x028C; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ʊ\t near-close near-back rounded vowel\n IPA near-close near-back rounded vowel",
+      "subtitle": "U+028A",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ʊ",
+      "text": {
+        "copy": "ʊ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u028A",
+          "subtitle": "\\u028A → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x028A;",
+          "subtitle": "&#x028A; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ʉ\t close central rounded vowel\n IPA close central rounded vowel",
+      "subtitle": "U+0289",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ʉ",
+      "text": {
+        "copy": "ʉ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0289",
+          "subtitle": "\\u0289 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0289;",
+          "subtitle": "&#x0289; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɯ\t close back unrounded vowel\n IPA close back unrounded vowel",
+      "subtitle": "U+026F",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɯ",
+      "text": {
+        "copy": "ɯ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u026F",
+          "subtitle": "\\u026F → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x026F;",
+          "subtitle": "&#x026F; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɤ\t close-mid back unrounded vowel\n IPA close-mid back unrounded vowel",
+      "subtitle": "U+0264",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɤ",
+      "text": {
+        "copy": "ɤ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0264",
+          "subtitle": "\\u0264 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0264;",
+          "subtitle": "&#x0264; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ʏ\t near-close near-front rounded vowel\n IPA near-close near-front rounded vowel",
+      "subtitle": "U+028F",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ʏ",
+      "text": {
+        "copy": "ʏ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u028F",
+          "subtitle": "\\u028F → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x028F;",
+          "subtitle": "&#x028F; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
     }
   ]
 }
