@@ -1,9 +1,8 @@
-## Typefacts Special Characters Workflow for Alfred 3
+## Typefacts IPA Characters Workflow for Alfred 3
 
-Many special characters needed for good typography are hard to find, some are not even available on the keyboard at all.
-This workflow gives you access to these characters and pastes them right into your current application.
+Typing IPA symbols on a regular keyboard is virtually impossible. Instead of using digital online keyboards, this workflow allows searching for phonemes by their articulatory description and will insert them from the clipboard into the frontmost application.
 
-[Special Characters — An Alfred App Workflow on www.typefacts.com](http://typefacts.com/news/special-characters-an-alfred-app-workflow)
+This workflow is based on the [Special Characters](http://typefacts.com/news/special-characters-an-alfred-app-workflow) workflow by Typefacts.
 
 ## Compiling
 ```bash
@@ -14,5 +13,6 @@ You may need to install the Python dependencies via `pip`.
 ---
 
 ### This workflow was built by:
-Norman Posselt ([@normanposselt](https://twitter.com/normanposselt))  
-Frank Rausch ([@frankrausch](https://twitter.com/frankrausch))
+Norman Posselt
+Frank Rausch
+Sebastian Carewe (IPA adaptation)
