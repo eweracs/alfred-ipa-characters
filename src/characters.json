@@ -1,1980 +1,924 @@
-{"items": [
-  {
-    "title": "≈\t almost equal to sign\n math almost equal",
-    "subtitle": "U+2248",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "≈",
-    "text": {
-      "copy": "≈"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2248",
-            "subtitle": "\\u2248 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&asymp;",
-            "subtitle": "&asymp; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "’\t apostrophe (the only correct one)\n ",
-    "subtitle": "U+2019",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "’",
-    "text": {
-      "copy": "’"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2019",
-            "subtitle": "\\u2019 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&rsquo;",
-            "subtitle": "&rsquo; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "⌘\t Apple Command Key\n apple command key",
-    "subtitle": "U+2318",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "⌘",
-    "text": {
-      "copy": "⌘"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2318",
-            "subtitle": "\\u2318 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#x2318;",
-            "subtitle": "&#x2318; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": "⎋\t Apple Escape Key\n apple escape key",
-    "subtitle": "U+238B",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "⎋",
-    "text": {
-      "copy": "⎋"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u238b",
-            "subtitle": "\\u238b → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#x238b;",
-            "subtitle": "&#x238b; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": "⌥\t Apple Option (Alt) Key\n apple option key",
-    "subtitle": "U+2325",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "⌥",
-    "text": {
-      "copy": "⌥"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2325",
-            "subtitle": "\\u2325 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#x2325;",
-            "subtitle": "&#x2325; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": "⇧\t Apple Shift Key\n apple shift key",
-    "subtitle": "U+21E7",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "⇧",
-    "text": {
-      "copy": "⇧"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u21e7",
-            "subtitle": "\\u21e7 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#x21e7;",
-            "subtitle": "&#x21e7; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": "•\t bullet\n bold interpunct bullet point",
-    "subtitle": "U+2022",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "•",
-    "text": {
-      "copy": "•"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2022",
-            "subtitle": "\\u2022 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&bull;",
-            "subtitle": "&bull; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "℅\t c/o\n care of c o correspondence",
-    "subtitle": "U+2105",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "℅",
-    "text": {
-      "copy": "℅"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2105",
-            "subtitle": "\\u2105 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#x2105;",
-            "subtitle": "&#x2105; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": "÷\t division sign\n math division",
-    "subtitle": "U+00F7",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "÷",
-    "text": {
-      "copy": "÷"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u00f7",
-            "subtitle": "\\u00f7 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&divide;",
-            "subtitle": "&divide; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "″\t double prime\n inch arcsecond second",
-    "subtitle": "U+2033",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "″",
-    "text": {
-      "copy": "″"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2033",
-            "subtitle": "\\u2033 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&Prime;",
-            "subtitle": "&Prime; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "→\t right arrow\n ",
-    "subtitle": "U+2192",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "→",
-    "text": {
-      "copy": "→"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2192",
-            "subtitle": "\\u2192 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&rarr;",
-            "subtitle": "&rarr; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "←\t left arrow\n ",
-    "subtitle": "U+2190",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "←",
-    "text": {
-      "copy": "←"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2190",
-            "subtitle": "\\u2190 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&larr;",
-            "subtitle": "&larr; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "↑\t up arrow\n ",
-    "subtitle": "U+2191",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "↑",
-    "text": {
-      "copy": "↑"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2191",
-            "subtitle": "\\u2191 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&uarr;",
-            "subtitle": "&uarr; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "↓\t down arrow\n ",
-    "subtitle": "U+2193",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "↓",
-    "text": {
-      "copy": "↓"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2193",
-            "subtitle": "\\u2193 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&darr;",
-            "subtitle": "&darr; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "—\t em dash\n em dash",
-    "subtitle": "U+2014",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "—",
-    "text": {
-      "copy": "—"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2014",
-            "subtitle": "\\u2014 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&mdash;",
-            "subtitle": "&mdash; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": " \t em space\n ",
-    "subtitle": "U+2003",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": " ",
-    "text": {
-      "copy": " "
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2003",
-            "subtitle": "\\u2003 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&emsp;",
-            "subtitle": "&emsp; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "–\t en dash\n en dash",
-    "subtitle": "U+2013",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "–",
-    "text": {
-      "copy": "–"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2013",
-            "subtitle": "\\u2013 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&ndash;",
-            "subtitle": "&ndash; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": " \t en space\n ",
-    "subtitle": "U+2002",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": " ",
-    "text": {
-      "copy": " "
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2002",
-            "subtitle": "\\u2002 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&ensp;",
-            "subtitle": "&ensp; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "“\t English double quote left\n English double quote left",
-    "subtitle": "U+201C",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "“",
-    "text": {
-      "copy": "“"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u201c",
-            "subtitle": "\\u201c → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&ldquo;",
-            "subtitle": "&ldquo; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "”\t English double quote right\n English double quote right",
-    "subtitle": "U+201D",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "”",
-    "text": {
-      "copy": "”"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u201d",
-            "subtitle": "\\u201d → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&rdquo;",
-            "subtitle": "&rdquo; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "‘\t English single quote left\n English single quote left",
-    "subtitle": "U+2018",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "‘",
-    "text": {
-      "copy": "‘"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2018",
-            "subtitle": "\\u2018 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&lsquo;",
-            "subtitle": "&lsquo; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "’\t English single quote right\n English single quote right",
-    "subtitle": "U+2019",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "’",
-    "text": {
-      "copy": "’"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2019",
-            "subtitle": "\\u2019 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&rsquo;",
-            "subtitle": "&rsquo; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "=\t equal sign\n math equal",
-    "subtitle": "U+003D",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "=",
-    "text": {
-      "copy": "="
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u003d",
-            "subtitle": "\\u003d → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#x003d",
-            "subtitle": "&#x003d → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": " \t figure space\n number space",
-    "subtitle": "U+2007",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": " ",
-    "text": {
-      "copy": " "
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2007",
-            "subtitle": "\\u2007 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&numsp;",
-            "subtitle": "&numsp; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "„\t German double quote left\n German double quote left",
-    "subtitle": "U+201E",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "„",
-    "text": {
-      "copy": "„"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u201e",
-            "subtitle": "\\u201e → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&bdquo;",
-            "subtitle": "&bdquo; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "“\t German double quote right\n German double quote right",
-    "subtitle": "U+201C",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "“",
-    "text": {
-      "copy": "“"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u201c",
-            "subtitle": "\\u201c → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&ldquo;",
-            "subtitle": "&ldquo; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "‚\t German single quote left\n German single quote left",
-    "subtitle": "U+201A",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "‚",
-    "text": {
-      "copy": "‚"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u201a",
-            "subtitle": "\\u201a → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&sbquo;",
-            "subtitle": "&sbquo; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "‘\t German single quote right\n German single quote right",
-    "subtitle": "U+2018",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "‘",
-    "text": {
-      "copy": "‘"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2018",
-            "subtitle": "\\u2018 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&lsquo;",
-            "subtitle": "&lsquo; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": " \t hair space\n ",
-    "subtitle": "U+200A",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": " ",
-    "text": {
-      "copy": " "
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u200A",
-            "subtitle": "\\u200A → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&hairsp;",
-            "subtitle": "&hairsp; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "…\t horizontal ellipsis\n three dots leader",
-    "subtitle": "U+2026",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "…",
-    "text": {
-      "copy": "…"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2026",
-            "subtitle": "\\u2026 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&hellip;",
-            "subtitle": "&hellip; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "·\t middle dot\n interpunct middot centered dot middle dot",
-    "subtitle": "U+2219",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "·",
-    "text": {
-      "copy": "·"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u00b7",
-            "subtitle": "\\u00b7 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&middot;",
-            "subtitle": "&middot; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "‽\t interrobang\n question exclamation ? !",
-    "subtitle": "U+203D",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "‽",
-    "text": {
-      "copy": "‽"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u203d",
-            "subtitle": "\\u203d → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#x203d;",
-            "subtitle": "&#x203d; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": "¡\t inverted exclamation mark\n inverted exclamation",
-    "subtitle": "U+00A1",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "¡",
-    "text": {
-      "copy": "¡"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u00a1",
-            "subtitle": "\\u00a1 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&iexcl;",
-            "subtitle": "&iexcl; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "⸘\t gnaborretni\n interrobang inverted question exclamation ¿ ¡",
-    "subtitle": "U+2E18",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "⸘",
-    "text": {
-      "copy": "⸘"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2e18",
-            "subtitle": "\\u2e18 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#x2e18;",
-            "subtitle": "&#x2e18; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": "¿\t inverted question mark\n inverted question ",
-    "subtitle": "U+00BF",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "¿",
-    "text": {
-      "copy": "¿"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u00bf",
-            "subtitle": "\\u00bf → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&iquest;",
-            "subtitle": "&iquest; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "ſ\t long s\n latin small letter long s",
-    "subtitle": "U+017F",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "ſ",
-    "text": {
-      "copy": "ſ"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u017f",
-            "subtitle": "\\u017f → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#x17f;",
-            "subtitle": "&#x17f; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": "−\t minus sign\n math minus subtraction",
-    "subtitle": "U+2212",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "−",
-    "text": {
-      "copy": "−"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2212",
-            "subtitle": "\\u2212 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&minus;",
-            "subtitle": "&minus; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "×\t multiplication sign\n math times multiply",
-    "subtitle": "U+00D7",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "×",
-    "text": {
-      "copy": "×"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u00d7",
-            "subtitle": "\\u00d7 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&times;",
-            "subtitle": "&times; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": " \t narrow non-breaking space\n  thin no break space",
-    "subtitle": "U+202F",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "\u202F",
-    "text": {
-      "copy": ""
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u202F",
-            "subtitle": "\\u202F → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#x202F;",
-            "subtitle": "&#x202F; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": " \t non-breaking space\n  no break space",
-    "subtitle": "U+00A0",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": " ",
-    "text": {
-      "copy": " "
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u00A0",
-            "subtitle": "\\u00A0 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&nbsp;",
-            "subtitle": "&nbsp; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "≠\t not equal to sign\n math not equal",
-    "subtitle": "U+2260",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "≠",
-    "text": {
-      "copy": "≠"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2260",
-            "subtitle": "\\u2260 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&ne;",
-            "subtitle": "&ne; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "½\t one half\n math fraction 1 2",
-    "subtitle": "U+00BD",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "½",
-    "text": {
-      "copy": "½"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u00bd",
-            "subtitle": "\\u00bd → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&frac12;",
-            "subtitle": "&frac12; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "¼\t one quarter\n math fraction 1 4",
-    "subtitle": "U+00BC",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "¼",
-    "text": {
-      "copy": "¼"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u00bc",
-            "subtitle": "\\u00bc → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&frac14;",
-            "subtitle": "&frac14; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "π\t pi sign\n math greek pi",
-    "subtitle": "U+03c0",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "π",
-    "text": {
-      "copy": "π"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u03c0",
-            "subtitle": "\\u03c0 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&pi;",
-            "subtitle": "&pi; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "+\t plus sign\n math plus addition",
-    "subtitle": "U+002B",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "+",
-    "text": {
-      "copy": "+"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u002B",
-            "subtitle": "\\u002B → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#x002b;",
-            "subtitle": "&#x002b; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": " \t punctuation space\n ",
-    "subtitle": "U+2008",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": " ",
-    "text": {
-      "copy": " "
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2008",
-            "subtitle": "\\u2008 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&puncsp;",
-            "subtitle": "&puncsp; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "′\t single prime\n foot feet arcminute minute",
-    "subtitle": "U+2032",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "′",
-    "text": {
-      "copy": "′"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2032",
-            "subtitle": "\\u2032 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&prime;",
-            "subtitle": "&prime; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "★\t star filled\n ",
-    "subtitle": "U+2605",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "★",
-    "text": {
-      "copy": "★"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2605",
-            "subtitle": "\\u2605 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#x2605;",
-            "subtitle": "&#x2605; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": "☆\t star outline\n ",
-    "subtitle": "U+2606",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "☆",
-    "text": {
-      "copy": "☆"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2606",
-            "subtitle": "\\u2606 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#x2606;",
-            "subtitle": "&#x2606; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": "³\t superior three\n 3",
-    "subtitle": "U+00B3",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "³",
-    "text": {
-      "copy": "³"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u00b3",
-            "subtitle": "\\u00b3 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&sup3;",
-            "subtitle": "&sup3; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "²\t superior two\n 2",
-    "subtitle": "U+00B2",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "²",
-    "text": {
-      "copy": "²"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u00b2",
-            "subtitle": "\\u00b2 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&sup2;",
-            "subtitle": "&sup2; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": " \t thin space\n ",
-    "subtitle": "U+2009",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": " ",
-    "text": {
-      "copy": " "
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2009",
-            "subtitle": "\\u2009 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&thinsp;",
-            "subtitle": "&thinsp; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "¾\t three quarters\n math fraction 3 4",
-    "subtitle": "U+00BE",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "¾",
-    "text": {
-      "copy": "¾"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u00be",
-            "subtitle": "\\u00be → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&frac34;",
-            "subtitle": "&frac34; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "‴\t triple prime\n ",
-    "subtitle": "U+2034",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "‴",
-    "text": {
-      "copy": "‴"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2034",
-            "subtitle": "\\u2034 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#x2034;",
-            "subtitle": "&#x2034; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": "™\t trade mark sign\n trade mark ™",
-    "subtitle": "U+2122",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "™",
-    "text": {
-      "copy": "™"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2122",
-            "subtitle": "\\u2122 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&trade;",
-            "subtitle": "&trade; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "®\t registered sign\n registered sign ®",
-    "subtitle": "U+00AE",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "®",
-    "text": {
-      "copy": "®"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u00AE",
-            "subtitle": "\\u00AE → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&reg;",
-            "subtitle": "&reg; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "⸮\t reversed question mark\n reversed question irony punctuation ⸮",
-    "subtitle": "U+2E2E",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "⸮",
-    "text": {
-      "copy": "⸮"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2E2E",
-            "subtitle": "\\u2E2E → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#11822;",
-            "subtitle": "&#x2e2e; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": "¶ \t pilcrow sign\n pilcrow sign paragraph ¶ ",
-    "subtitle": "U+00B6",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "¶ ",
-    "text": {
-      "copy": "¶ "
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u00b6",
-            "subtitle": "\\u00b6 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&para;",
-            "subtitle": "&para; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "✓\t check mark\n check mark sign ✓",
-    "subtitle": "U+2713",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "✓",
-    "text": {
-      "copy": "✓"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2713",
-            "subtitle": "\\u2713 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#x2713;",
-            "subtitle": "&#x2713; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": "฿\t baht sign\n baht sign thai currency ฿",
-    "subtitle": "U+0E3F",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "฿",
-    "text": {
-      "copy": "฿"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u0E3F",
-            "subtitle": "\\u0E3F → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#xe3f;",
-            "subtitle": "&#xe3f; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": "¢\t cent sign\n cent sign currency ¢",
-    "subtitle": "U+00A2",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "¢",
-    "text": {
-      "copy": "¢"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u00A2",
-            "subtitle": "\\u00A2 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&cent;",
-            "subtitle": "&cent; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "¤\t currency sign\n currency sign ¤",
-    "subtitle": "U+00A4",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "¤",
-    "text": {
-      "copy": "¤"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u0024",
-            "subtitle": "\\u0024 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&curren;",
-            "subtitle": "&curren; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "$\t dollar sign\n dollar sign currency $",
-    "subtitle": "U+0024",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "$",
-    "text": {
-      "copy": "$"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u0024",
-            "subtitle": "\\u0024 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#x24;",
-            "subtitle": "&#x24; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": "€\t euro sign\n euro sign currency €",
-    "subtitle": "U+20A0",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "€",
-    "text": {
-      "copy": "€"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u20A0",
-            "subtitle": "\\u20A0 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&euro;",
-            "subtitle": "&euro; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "ƒ\t florin sign\n aperture florin sign currency ƒ",
-    "subtitle": "U+0192",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "ƒ",
-    "text": {
-      "copy": "ƒ"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u0192",
-            "subtitle": "\\u0192 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&fnof;",
-            "subtitle": "&fnof; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "£\t pound sign\n pound sign currency £",
-    "subtitle": "U+00A3",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "£",
-    "text": {
-      "copy": "£"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u00A3",
-            "subtitle": "\\u00A3 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&pound;",
-            "subtitle": "&pound; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "₺\t turkish lira sign\n turkish lira sign currency ₺",
-    "subtitle": "U+20BA",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "₺",
-    "text": {
-      "copy": "₺"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u20BA",
-            "subtitle": "\\u20BA → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#x20ba;",
-            "subtitle": "&#x20ba; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": "¥\t yen sign\n yen sign ¥",
-    "subtitle": "U+00A5",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "¥",
-    "text": {
-      "copy": "¥"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u00A5",
-            "subtitle": "\\u00A5 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&yen;",
-            "subtitle": "&yen; → Copy HTML Entity"
-        }
-    }
-  },
-  {
-    "title": "​ \t zero-width space\n zwsp space",
-    "subtitle": "U+200B",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "​",
-    "text": {
-      "copy": "\u200b"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u200b",
-            "subtitle": "\\u200b → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#x200b;",
-            "subtitle": "&#x200b; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": "ẞ\t german capital sharp s; fallback w/ capital ss\n german capital sharp s; fallback with capital ss ẞ versal sz eszett",
-    "subtitle": "U+1E9E",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "ẞ",
-    "text": {
-      "copy": "ẞ"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u1e9e",
-            "subtitle": "\\u1e9e → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#x1e9e;",
-            "subtitle": "&#x1e9e; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": "©\t copyright sign\n copyright ©",
-    "subtitle": "U+00A9",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "©",
-    "text": {
-      "copy": "©"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u00A9",
-            "subtitle": "\\u00A9 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#xa9;",
-            "subtitle": "&#xa9; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": "℗\t sound recording copyright sign\n sound recording copyright ℗",
-    "subtitle": "U+2117",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "℗",
-    "text": {
-      "copy": "℗"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2117",
-            "subtitle": "\\u2117 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#x2117;",
-            "subtitle": "&#x2117; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": "№\t numero sign\n numero sign №",
-    "subtitle": "U+2116",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "№",
-    "text": {
-      "copy": "№"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2116",
-            "subtitle": "\\u2116 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#x2116;",
-            "subtitle": "&#x2116; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": "℠\t service mark\n service mark sign ℠",
-    "subtitle": "U+2120",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "℠",
-    "text": {
-      "copy": "℠"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2120",
-            "subtitle": "\\u2120 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#x2120;",
-            "subtitle": "&#x2120; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": "‰\t per mille\n per mille sign ‰",
-    "subtitle": "U+2030",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "‰",
-    "text": {
-      "copy": "‰"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2030",
-            "subtitle": "\\u2030 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#x2030;",
-            "subtitle": "&#x2030; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": "‱\t per ten thousand\n per ten thousand sign ‱",
-    "subtitle": "U+2031",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "‱",
-    "text": {
-      "copy": "‱"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2031",
-            "subtitle": "\\u2031 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#x2031;",
-            "subtitle": "&#x2031; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": "∑\t n-ary summation\n n-ary summation sign sum ∑",
-    "subtitle": "U+2211",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "∑",
-    "text": {
-      "copy": "∑"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2211",
-            "subtitle": "\\u2211 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#x2211;",
-            "subtitle": "&#x2211; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": "℃\t Degree Celsius\n degree celsius ℃",
-    "subtitle": "U+2103",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "℃",
-    "text": {
-      "copy": "℃"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2103",
-            "subtitle": "\\u2103 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#x2103;",
-            "subtitle": "&#x2103; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": "℉\t Degree Fahrenheit\n degree fahrenheit ℉",
-    "subtitle": "U+2109",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "℉",
-    "text": {
-      "copy": "℉"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2109",
-            "subtitle": "\\u2109 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#x2109;",
-            "subtitle": "&#x2109; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": "°\t degree sign\n degree sign °",
-    "subtitle": "U+00B0",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "°",
-    "text": {
-      "copy": "°"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u00b0",
-            "subtitle": "\\u00b0 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#176;",
-            "subtitle": "&#176; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": "»\t right-pointing double guillemet quotation\n right-pointing double guillemet quotation »", 
-    "subtitle": "U+00BB",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "»",
-    "text": {
-      "copy": "»"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u00bb",
-            "subtitle": "\\u00bb → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#187;",
-            "subtitle": "&#187; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": "«\t left-pointing double guillemet quotation\n left-pointing double guillemet quotation «", 
-    "subtitle": "U+00AB",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "«",
-    "text": {
-      "copy": "«"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u00AB",
-            "subtitle": "\\u00AB → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#171;",
-            "subtitle": "&#171; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": "‹\t left-pointing single guillemet quotation \n left-pointing single guillemet quotation  ‹", 
-    "subtitle": "U+2039",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "‹",
-    "text": {
-      "copy": "‹"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2039",
-            "subtitle": "\\u2039 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#8249;",
-            "subtitle": "&#8249; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": "›\t right-pointing single guillemet quotation\n right-pointing single guillemet quotation ›", 
-    "subtitle": "U+203A",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "›",
-    "text": {
-      "copy": "›"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u203A",
-            "subtitle": "\\u203A → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#8250;",
-            "subtitle": "&#8250; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": "­\t soft hyphen\n soft hyphen ­", 
-    "subtitle": "U+00AD",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "­",
-    "text": {
-      "copy": "­"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u00AD",
-            "subtitle": "\\u00AD → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&shy;",
-            "subtitle": "&shy; → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-  {
-    "title": "‑\t non-breaking hyphen\n non-breaking hyphen ‑", 
-    "subtitle": "U+2011",
-    "icon": {
-      "path": "empty.png"
-    },
-    "arg": "‑",
-    "text": {
-      "copy": "‑"
-    },
-    "mods": {
-        "alt": {
-            "valid": true,
-            "arg": "\\u2011",
-            "subtitle": "\\u2011 → Copy Hex Unicode"
-        },
-        "cmd": {
-            "valid": true,
-            "arg": "&#x2011",
-            "subtitle": "&#x2011 → Copy HTML Numeric Character Reference (Hex)"
-        }
-    }
-  },
-]}
+{
+  "items": [
+    {
+      "title": "ɓ\t voiced bilabial implosive",
+      "subtitle": "U+0253",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɓ",
+      "text": {
+        "copy": "ɓ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0253",
+          "subtitle": "\\u0253 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0253;",
+          "subtitle": "&#x0253; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ʙ\t voiced bilabial trill",
+      "subtitle": "U+0299",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ʙ",
+      "text": {
+        "copy": "ʙ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0299",
+          "subtitle": "\\u0299 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0299;",
+          "subtitle": "&#x0299; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "β\t voiced bilabial fricative",
+      "subtitle": "U+03B2",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "β",
+      "text": {
+        "copy": "β"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u03B2",
+          "subtitle": "\\u03B2 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&beta;",
+          "subtitle": "&beta; → Copy HTML Entity"
+        }
+      }
+    },
+    {
+      "title": "ɕ\t voiceless alveolo-palatal fricative",
+      "subtitle": "U+0255",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɕ",
+      "text": {
+        "copy": "ɕ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0255",
+          "subtitle": "\\u0255 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0255;",
+          "subtitle": "&#x0255; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ç\t voiceless palatal fricative",
+      "subtitle": "U+00E7",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ç",
+      "text": {
+        "copy": "ç"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u00E7",
+          "subtitle": "\\u00E7 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&ccedil;",
+          "subtitle": "&ccedil; → Copy HTML Entity"
+        }
+      }
+    },
+    {
+      "title": "ɗ\t voiced alveolar implosive",
+      "subtitle": "U+0257",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɗ",
+      "text": {
+        "copy": "ɗ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0257",
+          "subtitle": "\\u0257 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0257;",
+          "subtitle": "&#x0257; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɖ\t voiced retroflex plosive",
+      "subtitle": "U+0256",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɖ",
+      "text": {
+        "copy": "ɖ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0256",
+          "subtitle": "\\u0256 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0256;",
+          "subtitle": "&#x0256; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ð\t voiced dental fricative",
+      "subtitle": "U+00F0",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ð",
+      "text": {
+        "copy": "ð"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u00F0",
+          "subtitle": "\\u00F0 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&eth;",
+          "subtitle": "&eth; → Copy HTML Entity"
+        }
+      }
+    },
+    {
+      "title": "ʤ\t voiced postalveolar affricate",
+      "subtitle": "U+02A4",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ʤ",
+      "text": {
+        "copy": "ʤ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u02A4",
+          "subtitle": "\\u02A4 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x02A4;",
+          "subtitle": "&#x02A4; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɟ\t voiced palatal plosive",
+      "subtitle": "U+025F",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɟ",
+      "text": {
+        "copy": "ɟ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u025F",
+          "subtitle": "\\u025F → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x025F;",
+          "subtitle": "&#x025F; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ʄ\t voiced palatal implosive",
+      "subtitle": "U+0284",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ʄ",
+      "text": {
+        "copy": "ʄ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0284",
+          "subtitle": "\\u0284 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0284;",
+          "subtitle": "&#x0284; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɡ\t voiced velar plosive",
+      "subtitle": "U+0261",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɡ",
+      "text": {
+        "copy": "ɡ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0261",
+          "subtitle": "\\u0261 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0261;",
+          "subtitle": "&#x0261; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɠ\t voiced velar implosive",
+      "subtitle": "U+0260",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɠ",
+      "text": {
+        "copy": "ɠ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0260",
+          "subtitle": "\\u0260 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0260;",
+          "subtitle": "&#x0260; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɢ\t voiced uvular plosive",
+      "subtitle": "U+0262",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɢ",
+      "text": {
+        "copy": "ɢ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0262",
+          "subtitle": "\\u0262 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0262;",
+          "subtitle": "&#x0262; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ʛ\t voiced uvular implosive",
+      "subtitle": "U+029B",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ʛ",
+      "text": {
+        "copy": "ʛ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u029B",
+          "subtitle": "\\u029B → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x029B;",
+          "subtitle": "&#x029B; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɦ\t voiced glottal fricative",
+      "subtitle": "U+0266",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɦ",
+      "text": {
+        "copy": "ɦ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0266",
+          "subtitle": "\\u0266 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0266;",
+          "subtitle": "&#x0266; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɧ\t voiceless simultaneous postalveolar and velar fricative",
+      "subtitle": "U+0267",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɧ",
+      "text": {
+        "copy": "ɧ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0267",
+          "subtitle": "\\u0267 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0267;",
+          "subtitle": "&#x0267; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ħ\t voiceless pharyngeal fricative",
+      "subtitle": "U+0127",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ħ",
+      "text": {
+        "copy": "ħ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0127",
+          "subtitle": "\\u0127 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&hstrok;",
+          "subtitle": "&hstrok; → Copy HTML Entity"
+        }
+      }
+    },
+    {
+      "title": "ʜ\t voiceless epiglottal fricative",
+      "subtitle": "U+029C",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ʜ",
+      "text": {
+        "copy": "ʜ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u029C",
+          "subtitle": "\\u029C → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x029C;",
+          "subtitle": "&#x029C; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ʝ\t voiced palatal fricative",
+      "subtitle": "U+029D",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ʝ",
+      "text": {
+        "copy": "ʝ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u029D",
+          "subtitle": "\\u029D → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x029D;",
+          "subtitle": "&#x029D; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɭ\t voiced retroflex lateral approximant",
+      "subtitle": "U+026D",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɭ",
+      "text": {
+        "copy": "ɭ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u026D",
+          "subtitle": "\\u026D → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x026D;",
+          "subtitle": "&#x026D; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɬ\t voiceless alveolar lateral fricative",
+      "subtitle": "U+026C",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɬ",
+      "text": {
+        "copy": "ɬ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u026C",
+          "subtitle": "\\u026C → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x026C;",
+          "subtitle": "&#x026C; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɫ\t velarized alveolar lateral approximant",
+      "subtitle": "U+026B",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɫ",
+      "text": {
+        "copy": "ɫ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u026B",
+          "subtitle": "\\u026B → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x026B;",
+          "subtitle": "&#x026B; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɮ\t voiced alveolar lateral fricative",
+      "subtitle": "U+026E",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɮ",
+      "text": {
+        "copy": "ɮ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u026E",
+          "subtitle": "\\u026E → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x026E;",
+          "subtitle": "&#x026E; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ʟ\t voiced velar lateral approximant",
+      "subtitle": "U+029F",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ʟ",
+      "text": {
+        "copy": "ʟ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u029F",
+          "subtitle": "\\u029F → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x029F;",
+          "subtitle": "&#x029F; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ʎ\t voiced palatal lateral approximant",
+      "subtitle": "U+028E",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ʎ",
+      "text": {
+        "copy": "ʎ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u028E",
+          "subtitle": "\\u028E → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x028E;",
+          "subtitle": "&#x028E; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɱ\t voiced labiodental nasal",
+      "subtitle": "U+0271",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɱ",
+      "text": {
+        "copy": "ɱ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0271",
+          "subtitle": "\\u0271 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0271;",
+          "subtitle": "&#x0271; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɰ\t voiced velar approximant",
+      "subtitle": "U+0270",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɰ",
+      "text": {
+        "copy": "ɰ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0270",
+          "subtitle": "\\u0270 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0270;",
+          "subtitle": "&#x0270; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ŋ\t voiced velar nasal",
+      "subtitle": "U+014B",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ŋ",
+      "text": {
+        "copy": "ŋ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u014B",
+          "subtitle": "\\u014B → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&eng;",
+          "subtitle": "&eng; → Copy HTML Entity"
+        }
+      }
+    },
+    {
+      "title": "ɳ\t voiced retroflex nasal",
+      "subtitle": "U+0273",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɳ",
+      "text": {
+        "copy": "ɳ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0273",
+          "subtitle": "\\u0273 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0273;",
+          "subtitle": "&#x0273; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɲ\t voiced palatal nasal",
+      "subtitle": "U+0272",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɲ",
+      "text": {
+        "copy": "ɲ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0272",
+          "subtitle": "\\u0272 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0272;",
+          "subtitle": "&#x0272; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɴ\t voiced uvular nasal",
+      "subtitle": "U+0274",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɴ",
+      "text": {
+        "copy": "ɴ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0274",
+          "subtitle": "\\u0274 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0274;",
+          "subtitle": "&#x0274; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɸ\t voiceless bilabial fricative",
+      "subtitle": "U+0278",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɸ",
+      "text": {
+        "copy": "ɸ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0278",
+          "subtitle": "\\u0278 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0278;",
+          "subtitle": "&#x0278; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɹ\t voiced alveolar approximant",
+      "subtitle": "U+0279",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɹ",
+      "text": {
+        "copy": "ɹ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0279",
+          "subtitle": "\\u0279 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0279;",
+          "subtitle": "&#x0279; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɻ\t voiced retroflex approximant",
+      "subtitle": "U+027B",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɻ",
+      "text": {
+        "copy": "ɻ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u027B",
+          "subtitle": "\\u027B → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x027B;",
+          "subtitle": "&#x027B; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɺ\t voiced alveolar lateral flap",
+      "subtitle": "U+027A",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɺ",
+      "text": {
+        "copy": "ɺ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u027A",
+          "subtitle": "\\u027A → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x027A;",
+          "subtitle": "&#x027A; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɾ\t voiced alveolar tap",
+      "subtitle": "U+027E",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɾ",
+      "text": {
+        "copy": "ɾ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u027E",
+          "subtitle": "\\u027E → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x027E;",
+          "subtitle": "&#x027E; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ɽ\t voiced retroflex flap",
+      "subtitle": "U+027D",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ɽ",
+      "text": {
+        "copy": "ɽ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u027D",
+          "subtitle": "\\u027D → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x027D;",
+          "subtitle": "&#x027D; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ʀ\t voiced uvular trill",
+      "subtitle": "U+0280",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ʀ",
+      "text": {
+        "copy": "ʀ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0280",
+          "subtitle": "\\u0280 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0280;",
+          "subtitle": "&#x0280; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    },
+    {
+      "title": "ʁ\t voiced uvular fricative",
+      "subtitle": "U+0281",
+      "icon": {
+        "path": "empty.png"
+      },
+      "arg": "ʁ",
+      "text": {
+        "copy": "ʁ"
+      },
+      "mods": {
+        "alt": {
+          "valid": true,
+          "arg": "\\u0281",
+          "subtitle": "\\u0281 → Copy Hex Unicode"
+        },
+        "cmd": {
+          "valid": true,
+          "arg": "&#x0281;",
+          "subtitle": "&#x0281; → Copy HTML Numeric Character Reference (Hex)"
+        }
+      }
+    }
+  ]
+}
