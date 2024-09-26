@@ -13,6 +13,6 @@ You may need to install the Python dependencies via `pip`.
 ---
 
 ### This workflow was built by:
-Norman Posselt
-Frank Rausch
+Norman Posselt\
+Frank Rausch\
 Sebastian Carewe (IPA adaptation)
