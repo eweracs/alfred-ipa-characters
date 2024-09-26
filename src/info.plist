@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>com.typefacts.alfred-specialchars</string>
+	<string>com.eweracs.alfred-ipachars</string>
 	<key>connections</key>
 	<dict>
 		<key>50B0CD10-4D52-4898-9C05-DD3A34A829C3</key>
@@ -23,11 +23,11 @@
 	<key>createdby</key>
 	<string>Norman Posselt &amp; Frank Rausch</string>
 	<key>description</key>
-	<string>Search for special characters and paste them into the frontmost app.</string>
+	<string>Search for IPA characters and paste them into the frontmost app.</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>Special Characters by Typefacts</string>
+	<string>IPA Characters by Typefacts and Sebastian Carewe</string>
 	<key>objects</key>
 	<array>
 		<dict>
@@ -66,7 +66,7 @@
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
-				<string>Insert Special Character</string>
+				<string>Insert IPA Character</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
@@ -98,11 +98,12 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string>The Typefacts Special Characters Workflow
+	<string>The Typefacts IPA Characters Workflow
 
-Many special characters needed for good typography are hard to find, some are not even available on the keyboard at all.
+This workflow is an adapation of the Typefacts special characters workflow. Similarly, it allows insertion of characters
+by searching for keywords, but is instead specialised in IPA symbols.
 
-This workflow gives you access to these characters and pastes them right into your current application.
+Search for a consonant or vowel by its articulatory description.
 
 ---
 
@@ -110,6 +111,7 @@ This workflow was built by:
 
 Norman Posselt (@norman_posselt)
 Frank Rausch (@frankrausch)
+Sebastian Carewe (@eweracs)
 
 ---
 
@@ -146,7 +148,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
-	<string>1.1.9</string>
+	<string>1.2.0</string>
 	<key>webaddress</key>
 	<string>http://typefacts.com</string>
 </dict>
